@@ -2,8 +2,6 @@
 // Problem 2
 // Language: Java
 
-
-
 import java.util.*;
 
 class Problem2 {
