@@ -6,7 +6,7 @@
 
 import java.util.*;
 
-public class Problem2 {
+class Problem2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number a: ");
