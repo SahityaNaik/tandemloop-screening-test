@@ -36,6 +36,6 @@ class Problem4 {
         }
 
         
-        System.out.println("Multiples count: " + countMap);
+        System.out.println(countMap);
     }
 }
