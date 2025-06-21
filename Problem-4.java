@@ -2,10 +2,9 @@
 // Problem 4
 // Language: Java
 
-
 import java.util.*;
 
-public class Problem4 {
+class Problem4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
